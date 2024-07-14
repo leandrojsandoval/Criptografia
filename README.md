@@ -3,4 +3,4 @@ Ejercicios resueltos del Taller de Criptografía para la equivalencia a la mater
 
 Estos ejercicios corresponden a los [Desafios de CryptoHack](https://cryptohack.org/challenges/).
 
-Para ejecutar los scripts solo tenes que posicionarte en alguna terminal la ruta en donde se encuentren y luego `py mi_script.py`.
+Para ejecutar los scripts solo hay que ubicarse en el directorio donde se encuentran (desde alguna terminal) y luego `py mi_script.py`.
